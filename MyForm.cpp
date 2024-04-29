@@ -11,3 +11,4 @@ void main(array<String^>^ args) {
 	$safeprojectname$::MyForm form;
 	Application::Run(% form);
 }
+//Thêm chú thích
